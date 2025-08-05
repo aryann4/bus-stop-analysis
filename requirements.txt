@@ -1,0 +1,12 @@
+dash
+dash-ag-grid
+dash-bootstrap-components
+geopandas
+networkx
+osmnx
+pandas
+plotly
+python-dotenv
+requests
+shapely
+tqdm

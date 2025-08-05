@@ -1,0 +1,14 @@
+# Environment variables
+.env
+
+# Python cache
+__pycache__/
+
+# OSMnx cache
+cache/
+
+# Data files - it's best practice not to commit large data files
+data/
+
+# Notebook checkpoints
+.ipynb_checkpoints/
